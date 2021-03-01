@@ -33,6 +33,10 @@ OBS.: Antes de incluir as linhas abaixo, conforme sua necessidade, não esqueça
 } 
 
 - Variáveis:
+No KDZ, faça a alteração abaixo acessando no menu: SHOW PREFERENCES/BB ALM RDz Plug-ins/Assistencia de codificação cobol
+
+![mock variavel](https://user-images.githubusercontent.com/49697760/109506368-52494900-7a7c-11eb-8f90-ceabd4fdcef0.jpg)
+
 No programa, antes do local onde você precisa alterar o valor da variável, identifique conforme abaixo para que o teste automatizado reconheça onde deve alterar o valor da variável(O valor 310530 deve se referir ao local onde esta sendo feito o mock. Importante quando temos mais de um no programa):
 
       *
