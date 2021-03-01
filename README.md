@@ -34,7 +34,7 @@ OBS.: Antes de incluir as linhas abaixo, conforme sua necessidade, não esqueça
 
 - Variáveis:
 
-No KDZ, faça a alteração abaixo acessando no menu: SHOW PREFERENCES/BB ALM RDz Plug-ins/Assistencia de codificação cobol
+No KDZ, faça a alteração abaixo acessando no menu: SHOW PREFERENCES/BB ALM RDz Plug-ins/Assistencia de codificação cobol. Marque os itens conforme abaixo:
 
 ![mock variavel](https://user-images.githubusercontent.com/49697760/109506368-52494900-7a7c-11eb-8f90-ceabd4fdcef0.jpg)
 
