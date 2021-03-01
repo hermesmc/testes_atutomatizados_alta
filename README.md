@@ -13,6 +13,7 @@ No nosso caso será exatamente isso, uma forma de simular o comportamento de um 
 OBS.: Antes de incluir as linhas abaixo, conforme sua necessidade, não esqueça de, no programa, clicar com botão direto no código e inserir código mock.
 
 - Programas Cobol CICS:
+
       @MOCK PROGRAM = DJOSR004{
       @BOOK DJOKR004
       @WHEN
@@ -20,6 +21,7 @@ OBS.: Antes de incluir as linhas abaixo, conforme sua necessidade, não esqueça
       }
 - Progamas Cobol IIB - operação
 /* Mock da operação 292018 - Valida Usuário no sistema ACESSO */
+
       @MOCK IIB OPR=292018.1 SRVC=71739.1 {
       @RQSC
       @BOOK nome do book ou decalaração das variáveis direto aqui
