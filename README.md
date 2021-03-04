@@ -2,7 +2,7 @@
 
 Alfarrábios para os testes automatizados em alta plataforma.
 
-## ATENÇÃO: se for rodar testes com cobertura após compilar, espere de 2 a 3 minutos para isso.
+# ATENÇÃO: se for rodar testes com cobertura após compilar, espere de 2 a 3 minutos para isso.
 
 ## MOCK
 
