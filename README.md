@@ -64,6 +64,13 @@ A variável WS-RESP assumirá o valor 10 durante o teste.
 
 Além do percentual que aparece quando executamos os testes automatizados, existe uma outra forma, mais completa, de ver como está a cobertura do código:
 - No meio do seu código, clique com botão direito e selecione o item: Análise de cobertura ce código cobol;
-- O popup abaxi deverá aparecer:
-- 
+- O popup abaxo deverá aparecer:
+
+![rel cobertura de testes](https://user-images.githubusercontent.com/49697760/110143493-11bc3900-7db6-11eb-91d9-79024e15fcdf.jpg)
+
+- Selecione o teste que deseja analisar e clique em visualizar. Deverá abrir uma aba conforme abaixo:
+
+![relatorio](https://user-images.githubusercontent.com/49697760/110143562-1f71be80-7db6-11eb-932c-fc2a1d2dad29.jpg)
+
+Neste relatório você poderá ver onde o código não está sendo testado.
 
