@@ -59,3 +59,11 @@ No teste inclua conforme abaixo:
       }
 
 A variável WS-RESP assumirá o valor 10 durante o teste.
+
+## Verificação de cobertura do código
+
+Além do percentual que aparece quando executamos os testes automatizados, existe uma outra forma, mais completa, de ver como está a cobertura do código:
+- No meio do seu código, clique com botão direito e selecione o item: Análise de cobertura ce código cobol;
+- O popup abaxi deverá aparecer:
+- 
+
