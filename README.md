@@ -14,6 +14,19 @@ No nosso caso será exatamente isso, uma forma de simular o comportamento de um 
 
 OBS.: Antes de incluir as linhas abaixo, conforme sua necessidade, não esqueça de, no programa, clicar com botão direto no código e inserir código mock.
 
+
+- Programas Cobol em subrotinas Assembler(SB):
+
+      @MOCK PROGRAM = SBDATA{
+      @BOOK 
+             01  FUNCAO                      PIC  X(03) VALUE 'F16'. 
+             01  ARG01                       PIC  9(08) VALUE ZEROS. 
+             01  ARG02                       PIC  9(08) VALUE ZEROS. 
+             01  ARG03                       PIC  9(08) VALUE ZEROS. 
+      @WHEN
+      @THEN ARG02 = 11032021
+      }
+      
 - Programas Cobol CICS:
 
       @MOCK PROGRAM = DJOSR004{
@@ -21,6 +34,7 @@ OBS.: Antes de incluir as linhas abaixo, conforme sua necessidade, não esqueça
       @WHEN
       @THEN R004-COD-ERRO = 1
       }
+      
 - Progamas Cobol IIB - operação
 /* Mock da operação 292018 - Valida Usuário no sistema ACESSO */
 
