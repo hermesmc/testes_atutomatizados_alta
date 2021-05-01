@@ -86,7 +86,7 @@ Além do percentual que aparece quando executamos os testes automatizados, exist
 
 ![relatorio](https://user-images.githubusercontent.com/49697760/110143562-1f71be80-7db6-11eb-932c-fc2a1d2dad29.jpg)
 
-Neste relatório você poderá ver onde o código não está sendo testado.
+Neste relatório você poderá ver onde o código não está sendo testado(em vermelho no exemplo abaixo).
 
 ![result teste](https://user-images.githubusercontent.com/49697760/116785186-918d1980-aa6e-11eb-88b1-5f5d2998946e.jpg)
 
